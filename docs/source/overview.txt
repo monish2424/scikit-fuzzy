@@ -11,13 +11,16 @@ or our persistent chatroom on Gitter.IM.
 
 Homepage and package documentation
 ----------------------------------
-https://scikit-fuzzy.github.io/scikit-fuzzy/
+http://pythonhosted.org/scikit-fuzzy/
 
 Source, bugs, and development
 -----------------------------
-https://github.com/scikit-fuzzy/scikit-fuzzy
+http://github.com/scikit-fuzzy/scikit-fuzzy
 
-Online Discussion & Mailing List
---------------------------------
-Please join the discussion in the project's public chat room on Gitter.im
-or visit the Google Groups mailing list.
+Gitter.IM
+---------
+https://gitter.im/scikit-fuzzy/scikit-fuzzy
+
+Mailing List
+------------
+http://groups.google.com/group/scikit-fuzzy
